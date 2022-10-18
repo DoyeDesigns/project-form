@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(101, 101, 101);
+}
+.reg-box {
+  padding: 10px;
+  padding-bottom: 60px;
+  width: 300px;
+  background-color: rgb(243, 243, 243);
+  margin: 3% auto;
+}
+input {
+  display: block;
+  width: 100%;
+}
+h3 {
+  margin-bottom: 0;
+  color: rgb(101, 101, 101);
+}
+label {
+  display: block;
+  padding-bottom: 3px;
+}
+hr {
+  height: 2px;
+  background: rgb(101, 101, 101);
+  width: 15%;
+  margin-top: 3px;
+}
+#sendbtn {
+  border: 0;
+  background: black;
+  padding: 5px 10px;
+  color: white;
+  width: auto;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin-top: 20px;
+  border-radius: 2px;
+}
+#header-bacground {
+  background: yellow;
+  padding: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 2px;
+}
+a {
+  text-decoration: none;
+  color: rgb(85, 85, 255);
+}
+p {
+  text-align: center;
+  margin-top: 30px;
+  font-size: small;
+}
+input,
+label {
+  display: block;
+  width: 100%;
+  padding-bottom: 3px;
+}
+.login-box {
+  margin: auto;
+  margin-top: 20%;
+  padding: 10px;
+  padding-bottom: 20px;
+  width: 200px;
+  background: rgb(243, 243, 243);
+}
+hr {
+  height: 2px;
+  background: rgb(101, 101, 101);
+  width: 30%;
+  margin-top: 3px;
+}
+.header {
+  background: yellow;
+  padding: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 2px;
+}
+#loginbtn {
+  border: 0;
+  background: black;
+  padding: 4px 10px;
+  color: white;
+  width: 100%;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 2px;
+}
+p {
+  font-size: small;
+  text-align: center;
+  margin-top: 20px;
+}
+a {
+  text-decoration: none;
+  color: rgb(85, 85, 255);
+}
+input,
+label {
+  display: block;
+  width: 100%;
+  padding-bottom: 3px;
+}
+.login-box {
+  margin: auto;
+  margin-top: 20%;
+  padding: 10px;
+  padding-bottom: 20px;
+  width: 200px;
+  background: rgb(243, 243, 243);
+}
+hr {
+  height: 2px;
+  background: rgb(101, 101, 101);
+  width: 30%;
+  margin-top: 3px;
+}
+.header {
+  background: yellow;
+  padding: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 2px;
+}
+#loginbtn {
+  border: 0;
+  background: black;
+  padding: 4px 10px;
+  color: white;
+  width: 100%;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 2px;
+}
+p {
+  font-size: small;
+  text-align: center;
+  margin-top: 20px;
+}
+a {
+  text-decoration: none;
+  color: rgb(85, 85, 255);
+}
